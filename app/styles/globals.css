@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@media (max-width: 768px) {
+  .match-item {
+    flex-direction: column;
+    text-align: center;
+  }
+}
